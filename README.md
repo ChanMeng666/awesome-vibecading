@@ -14,6 +14,10 @@ Part of [VibeCADing](https://vibecading.io), an open innovation lab for AI-nativ
 
 - [By program](#by-program)
 - [By task](#by-task)
+  - [Text to CAD](#text-to-cad)
+  - [CAD and BIM libraries](#code-cad-and-bim-libraries-agents-write)
+  - [Image and text to 3D](#image-and-text-to-3d-models)
+  - [Fabrication](#fabrication)
 - [Same name, other projects](#same-name-other-projects)
 - [Related lists](#related-lists)
 - [Add a tool](#add-a-tool)
